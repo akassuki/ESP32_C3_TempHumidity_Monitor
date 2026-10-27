@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32_C3_TempHumidity_Monitor.PrjPcb]
+   Generated File[PCB_esp32_c3-RoundHoles.TXT]
+   Generated File[PCB_esp32_c3-SlotHoles.TXT]
+   Generated File[PCB_esp32_c3-RectHoles.TXT]
+   Generated File[PCB_esp32_c3.LDP]
+   Generated File[PCB_esp32_c3.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 18:33:48 On 10/27/2026

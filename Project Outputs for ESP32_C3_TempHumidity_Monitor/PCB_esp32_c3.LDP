@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\new\ESP32_C3_TempHumidity_Monitor\PCB_esp32_c3.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_esp32_c3-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_esp32_c3-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb_esp32_c3-rectholes.txt|DrillLayers=gtl,gbl
