@@ -2,6 +2,37 @@
 FileName = PCB_esp32_c3.GBR
 AutoAperture = True
 *************************************************************
+Generating : Dielectric 1
+      File : PCB_esp32_c3.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : PCB_esp32_c3.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D74
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
 Generating : Mechanical 15
       File : PCB_esp32_c3.GM15
 
@@ -10,8 +41,8 @@ Generating : Mechanical 15
 
 Used DCodes :
     D11
-    D92
-    D94
+    D93
+    D95
 *************************************************************
 
 *************************************************************
@@ -25,7 +56,7 @@ Used DCodes :
     D10
     D11
     D13
-    D93
+    D94
 *************************************************************
 
 *************************************************************
@@ -59,7 +90,7 @@ Generating : Bottom Overlay
 Used DCodes :
     D10
     D11
-    D92
+    D93
 *************************************************************
 
 *************************************************************
@@ -74,9 +105,9 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D86
     D87
     D88
+    D89
 *************************************************************
 
 *************************************************************
@@ -102,9 +133,9 @@ Used DCodes :
     D69
     D70
     D71
-    D89
     D90
     D91
+    D92
 *************************************************************
 
 *************************************************************
@@ -240,7 +271,6 @@ Used DCodes :
     D35
     D36
     D37
-    D73
     D74
     D75
     D76
@@ -252,6 +282,63 @@ Used DCodes :
     D82
     D83
     D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_esp32_c3.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_esp32_c3.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
 *************************************************************
 
 *************************************************************
@@ -302,61 +389,42 @@ Used DCodes :
     D83
     D84
     D85
+    D86
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : PCB_esp32_c3.GBL
+Generating : Drill Drawing
+      File : PCB_esp32_c3.GD1
 
-    Adding Layer      : Bottom Layer
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D12
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
+    D96
+    D97
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : PCB_esp32_c3.GPB
+Generating : Drill Guide
+      File : PCB_esp32_c3.GG1
 
-    Adding Layer      : Bottom Layer
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Guide
 
 
 Used DCodes :
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D86
-    D87
-    D88
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB_esp32_c3.GM
+
+
+Used DCodes :
+    D98
 *************************************************************
 
